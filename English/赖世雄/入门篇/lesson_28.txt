@@ -1,4 +1,4 @@
-full [ful] adn. 满的
+full [ful] adj. 满的
 was [wʌz]
 fantastic [fæn'tæstɪk] adj. 很棒的, 极好的
 main [men] adj. 主要的, 最重要的
@@ -18,6 +18,7 @@ he seldom goes to the movies. 他很少看电影.
 we are going to warch a moive tonight.
 = we are going to see a moive tonight.
 = we are going to take in a moive tongiht.
+seldom ['sɛldəm] adv. 很少, 不经常的
 
 Can i have two tickets for Titanic, please?
 ticket ['tɪkɪt] n. 票, 入场券
@@ -41,6 +42,7 @@ jack did very well on the test. 在考卷上表现很好用on
 
 im afraid its full. how about the midnight show?
 =im afraid that the tickets are sold out. what about the midnight show?
+how about = what about 
 a. full 形容词, 表示 "满的"之意, 有下列常见用法:
 be full of ... 充满....
 the house is full of people.
@@ -63,9 +65,21 @@ can i have a seat
 				|- in the back, please?
 				|- near/by the aisle, please?
 				|- towards the center, please?
-				|-  on the left/right side, please?
+				|- on the left/right side, please?
 
 that'll be twenty dollars, please?
 that'll be + 金钱 一共...(钱)
 = that'll be + 金钱 + in total
 = all this comes to + 金钱 
+
+- how much do i owe you?
+- that'll be 50 dollars .
+= that'll be 50 dollars in total.
+= all this comes to 50 dollars.
+
+when will the new moive/film be on? 这部新片何时上映?
+film [film] n. 电影, 影片
+let me treat you to a movie, Ok?
+is Titanic showing yet? 泰坦尼克号上映了么?
+That movie is a rerun, that's why it's cheaper.
+rerun ['ri,rʌn] 重新上映
