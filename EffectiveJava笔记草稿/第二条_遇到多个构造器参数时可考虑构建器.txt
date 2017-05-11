@@ -1,0 +1,9 @@
+https://www.google.com.hk/search?newwindow=1&biw=1920&bih=974&q=java+%E4%BD%BF%E7%94%A8builder+%E5%AE%9E%E7%8E%B0%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82&oq=java+%E4%BD%BF%E7%94%A8builder+%E5%AE%9E%E7%8E%B0%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82&gs_l=serp.3...111526.121887.0.122143.21.20.1.0.0.0.390.2746.0j3j8j1.12.0....0...1c.1j4.64.serp..9.4.1055.0..0j35i39k1j0i10k1j0i30k1.aF1qrOhDnr0
+
+https://www.google.com.hk/search?newwindow=1&q=java+%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F+%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82&oq=java+%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F+%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82&gs_l=serp.3...54901.58382.0.58706.8.8.0.0.0.0.308.962.0j1j2j1.4.0....0...1c.1j4.64.serp..5.2.500...35i39k1j0i30k1.2GYrTyx-CNs
+
+http://stormzhang.com/designpatterns/java/2013/11/02/java-builder-pattern/
+
+http://www.importnew.com/6841.html
+
+http://zhanche2011.iteye.com/blog/1168459
