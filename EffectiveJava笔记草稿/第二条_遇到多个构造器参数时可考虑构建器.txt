@@ -7,3 +7,9 @@ http://stormzhang.com/designpatterns/java/2013/11/02/java-builder-pattern/
 http://www.importnew.com/6841.html
 
 http://zhanche2011.iteye.com/blog/1168459
+
+http://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
+
+http://www.codeceo.com/article/java-functional-optoinal-null.html#0-qzone-1-51740-d020d2d2a4e8d1a374a433f596ad1440
+
+http://www.cnblogs.com/java-my-life/archive/2012/03/28/2418836.html
