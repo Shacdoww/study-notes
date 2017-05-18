@@ -1,0 +1,3 @@
+native方法  http://blog.csdn.net/xw13106209/article/details/6989415
+GC 类型卸载 http://blog.csdn.net/feiyu8607/article/details/8308314, http://www.blogjava.net/zhuxing/archive/2008/07/24/217285.html
+JDK 8 中 hotstop的改动
