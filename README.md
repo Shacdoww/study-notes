@@ -1,4 +1,3 @@
-# study-notes
 ##JVM内存划分
 
 ###程序计数器
