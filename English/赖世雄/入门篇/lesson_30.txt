@@ -18,15 +18,18 @@ this is an emergency call!
 此处的emergency是形容词, 表示 紧急的, 但emergency也可作名词,
 表示 "紧急(情况)"
 
-this KTV has no emergency exits. 这家KTV没有紧急出口.
+this KTV has no emergency exits['ɛɡzɪt]. 这家KTV没有紧急出口.
 exit n. 出口 安全门
 
 - what should you do in case of an emergency?
 - Call 911.
+in case of 万一 假设 如果发生
 万一发生紧急情况时你怎么办?
 
 2. Get an ambulance here right away.
 请马上拍一辆救护车来这里.
+right away 立刻 马上
+
 a. 本句为命令句. 所谓命令句就是以原形动词开头的句子.
 
 you should put on your coat. 一般句
@@ -100,6 +103,7 @@ Little Billy is afraid of fire.
 
 a fire broke out in the downtown area yesterday.
 昨天在市区发生了一起火灾.
+fire broke out 火灾 起火
 
 b. 其他有关fire的重要用法如下.
 be on fire 着火, 燃烧中
